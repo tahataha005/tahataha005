@@ -1,4 +1,4 @@
-<img src="https://github.com/tahataha005/tahataha005/blob/main/assets/banner.svg"/>
+<img src="https://github.com/tahataha005/tahataha005/blob/main/assets/banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Taha <sup>2</sup></h1>
 <h3 align="center">Focused on programming</h3>
