@@ -1,9 +1,11 @@
+<img src="https://github.com/tahataha005/tahataha005/blob/main/assets/banner.svg"/>
+
 <h1 align="center">Hi 👋, I'm Taha <sup>2</sup></h1>
 <h3 align="center">Focused on programming</h3>
 
 -   📫 How to reach me **taha.f.taha0@gmail.com**
 
--   ⚡ Fun fact **I am confident about my code 👾**
+-   ⚡ Fun fact about me: ** 👾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,8 +18,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahataha005&show_icons=true&locale=en&layout=compact" alt="tahataha005" /></p>
 
+<br><br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahataha005&show_icons=true&locale=en" alt="tahataha005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahataha005&" alt="tahataha005" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahataha005" alt="tahataha005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahataha005" alt="tahataha005" 
+/></a> </p>
