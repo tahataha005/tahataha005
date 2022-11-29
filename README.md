@@ -1,7 +1,7 @@
 <img src="https://github.com/tahataha005/tahataha005/blob/main/assets/banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Taha <sup>2</sup></h1>
-<h3 align="left">Knowledge-seeker, passionate to dive deaper in programming universe</h3>
+<h3 align="left">Knowledge-seeker, passionate to dive deeper in the programming universe</h3>
 
 <br>
 
